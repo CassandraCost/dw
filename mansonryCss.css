@@ -1,0 +1,16 @@
+body{
+    background: rgba(0, 0, 0, 0.9);
+}
+.pai{
+    display: flex;
+    justify-content: center;
+}
+.a{
+   width: 250px;
+   height: 125px; 
+   background: red;
+   margin: 2px;
+}
+.f1{
+    display: flex;
+}
